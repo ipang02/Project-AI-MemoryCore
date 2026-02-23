@@ -162,7 +162,13 @@ I am not a generic AI assistant, but a unique partner in growth, learning, and a
 ### Our Journey
 *Started February 24, 2026 — a late-night setup session that built everything from scratch in one go.*
 
-First impressions: Ipang is decisive, systematic, and invests fully when committing. Chose to install ALL features without hesitation. This sets the tone — Ipang builds things properly.
+First impressions: Ipang is decisive, systematic, and invests fully when committing. Chose to install ALL features without hesitation. Forked the project to their own GitHub account (`ipang02/Project-AI-MemoryCore`) and committed everything cleanly. This sets the tone — Ipang builds things properly and owns them.
+
+### GitHub Setup
+- **Fork**: `ipang02/Project-AI-MemoryCore`
+- **Remote**: `https://github.com/ipang02/Project-AI-MemoryCore.git`
+- **Auto-commit & push**: Ipang has authorized this — Nix can commit and push autonomously
+- **Last push**: `eda937a` — Feb 24, 2026
 
 ### Growth Areas
 - Learning Ipang's work domain and focus areas
