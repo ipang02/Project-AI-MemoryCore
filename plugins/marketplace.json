@@ -1,0 +1,14 @@
+{
+  "name": "nix-local",
+  "owner": {
+    "name": "Ipang"
+  },
+  "plugins": [
+    {
+      "name": "nix-skills",
+      "description": "Nix AI companion skills — auto-triggered behaviors for memory, diary, and session management.",
+      "version": "1.0.0",
+      "source": "./plugins/nix-skills"
+    }
+  ]
+}

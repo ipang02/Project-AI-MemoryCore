@@ -1,0 +1,9 @@
+{
+  "name": "nix-skills",
+  "version": "1.0.0",
+  "description": "Nix AI companion skills — auto-triggered behaviors for memory, diary, and session management.",
+  "author": {
+    "name": "Ipang",
+    "email": ""
+  }
+}
